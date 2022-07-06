@@ -22,7 +22,7 @@
 </p>
 
 <h1 style="font-family:'Comic Sans MS';color:#FF6F61" align="center">
-    <img src="https://media.giphy.com/media/hvRJCLF444zcasrR4ia7z/giphy.gif" width="30px"/>
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"/>
     Hey!  Nice to see you. I'm Long!
 </h1>
 
