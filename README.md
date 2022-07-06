@@ -3,7 +3,7 @@
 - 📫 How to reach me: dolong2110@gmail.com | [Linkedin](https://www.linkedin.com/in/chaulong2110/)
 
 
-![](https://komarev.com/ghpvc/?username=hanguyenol&color=red)
+![](https://komarev.com/ghpvc/?username=dolong2110&color=red)
 
 <!--
 **dolong2110/DoLong2110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
