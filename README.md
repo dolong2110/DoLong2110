@@ -1,8 +1,9 @@
 # Hi there 👋, I am Long
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="400"/>
 </div>
+
 
 - 📫 How to reach me: dolong2110@gmail.com
 
