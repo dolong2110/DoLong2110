@@ -1,7 +1,15 @@
-### Hi there 👋
+# Hi there 👋, I am Long
 
-- 📫 How to reach me: dolong2110@gmail.com | [Linkedin](https://www.linkedin.com/in/chaulong2110/)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="200"/>
+</div>
 
+- 📫 How to reach me: dolong2110@gmail.com
+
+## Skills and Experience:
+
+* 🖥️ Python / Go / SQL / Backend Development / Machine Learning
+* Nano technology / Organic Chemistry / Synthesis
 
 ![](https://komarev.com/ghpvc/?username=dolong2110&color=red)
 
