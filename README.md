@@ -36,7 +36,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<p>
+<div>
     <a href="https://go.dev/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="Go" width="50" height="50">&nbsp;
     </a>
@@ -64,5 +64,19 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
     <a href="https://www.postman.com/">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50">&nbsp;
     </a>
+</div>
+
+---
+
+### :fire: Mys Stats:
+
+<p>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=dolong2110&theme=dracula&background=000000)](https://git.io/streak-stats)" alt="streak-stats">&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=dolong2110&show_icons=true&theme=radical" alt="Github Stats">&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolong2110&hide=Jupyter%20Notebook&layout=compact" alt="Most Used Languages">&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@dolong2110" alt="Wakatime Stats">&nbsp;
 </p>
 
+---
+
+### :writing_hand: Blog Posts :
