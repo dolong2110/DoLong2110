@@ -22,7 +22,7 @@
 </p>
 
 <h1 style="font-family:'Comic Sans MS';color:#FF6F61" align="center">
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"/>
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
     Hey!  Nice to see you. I'm Long!
 </h1>
 
@@ -30,4 +30,14 @@
 
 ### :man_technologist: About Me:
 
-I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from :vietnam: Vietnam.
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam :vietnam:.
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<p>
+    <a href="https://www.mysql.com/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+    </a>
+</p>
