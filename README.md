@@ -4,21 +4,21 @@
 
 <div id="badges" align="center">
     <a href="mailto:dolong2110@gmail.com? subject=gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">&nbsp;
     </a>
     <a href="https://www.linkedin.com/in/chaulong2110/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">&nbsp;
     </a>
     <a href="skype:dolong2110?chat">
-        <img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" alt="Skype">
+        <img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" alt="Skype">&nbsp;
     </a>
     <a href="https://www.instagram.com/chaulong98/">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">&nbsp;
     </a>
 </div>
 
 <p align="center">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=dolong2110.visitor-badge&left_text=Profile%20Views&left_color=blue&right_color=red" alt="center"/>
+    <img src="https://visitor-badge.glitch.me/badge?page_id=dolong2110.visitor-badge&left_text=Profile%20Views&left_color=blue&right_color=red" alt="center"/>&nbsp;
 </p>
 
 <h1 style="font-family:'Comic Sans MS';color:#FF6F61" align="center">
@@ -37,6 +37,12 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### :hammer_and_wrench: Languages and Tools :
 
 <p>
+    <a href="https://go.dev/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="Go" width="50" height="50">&nbsp;
+    </a>
+    <a href="https://www.python.org/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50">&nbsp;
+    </a>
     <a href="https://www.mysql.com/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50">&nbsp;
     </a>
@@ -46,4 +52,17 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
     <a href="https://redis.io/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="50" height="50">&nbsp;
     </a>
+    <a href="https://cloud.google.com/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="Google Cloud" width="50" height="50">&nbsp;
+    </a>
+    <a href="https://www.docker.com/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50">&nbsp;
+    </a>
+    <a href="https://github.com/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50">&nbsp;
+    </a>
+    <a href="https://www.postman.com/">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50">&nbsp;
+    </a>
 </p>
+
